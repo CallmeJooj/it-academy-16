@@ -14,3 +14,16 @@ A aplicação é capaz de importar arquivos CSV de qualquer diretório acessíve
 Para executar o programa é necessário possuir pelo menos o Java 11
 instalado. A versão mais recente do Java JRE pode ser encontrada gratuitamente
 <a href=https://adoptium.net/temurin>aqui</a>.
+
+# Fluxo
+Após aberta a aplicação é necessário importar o aquivo CSV. As outras
+funcionalidades ficam desativadas até a importação ser feita.
+## Consulta de medicamentos:
+A consulta de medicamentos pode ser feita por Código de Barras ou por
+Nome. A consulta por nome é feita baseada na substância que define o
+medicamento e funciona mesmo com uma busca parcial do nome. Também
+busca apenas por medicamentos comercializados em 2020
+## Consulta de concessão de crédito:
+Ao clicar no botão de consulta de concessão de crédito, abaixo da tabela de
+consulta por nome e código, é possível ver as estatísticas de concessão de
+crédito, com os percentuais e um gráfico
