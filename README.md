@@ -1,4 +1,5 @@
 # It Academy Dell edição 16
+Esse projeto foi realizado por volta de 28/05/2022 como parte do processo seletivo do It Academy, projeto de estágio da Dell
 # Descrição
 Trata-se de uma solução para armazenar, ler e exibir um arquivo “.csv” com
 dados referentes a medicamentos. O projeto foi construído em Java, utilizando
